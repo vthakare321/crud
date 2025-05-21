@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "id": "cb29",
-      "name": "Vaishnavi Thakare",
-      "email": "vthakare@gmail.com",
-      "phone": "1234"
-    },
-    {
       "id": "13b0",
       "name": "Vaishnavi Thakare",
       "email": "vthakare321@gmail.com",
       "phone": "123"
     },
     {
-      "id": "27b5",
-      "name": "riya",
-      "email": "riya@123.com",
-      "phone": "1234"
+      "id": "febf",
+      "name": "Deepalii",
+      "email": "d@dq.com",
+      "phone": "23"
+    },
+    {
+      "id": "f245",
+      "name": "rohan",
+      "email": "r@r.com",
+      "phone": "12345"
     }
   ]
 }
